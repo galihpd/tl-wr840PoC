@@ -1,6 +1,10 @@
 #!/bin/bash
 clear;
-echo -e "-----------------------------------------\n-   TPLINK TL-WR840N Proof Of Concept   -\n-       Based on CVE-2018-11714         -\n-         Do at your own risk!          -\n-----------------------------------------";
+echo -e "-----------------------------------------\n-   
+         TPLINK TL-WR840N Proof Of Concept   -\n-       
+         Based on CVE-2018-11714         -\n-         
+         Do at your own risk!          
+      -\n-----------------------------------------";
 echo -e "\n[ 1 ] Manual\n[ 2 ] Automatic Gateway Finder\n[ 3 ] Decrypt Config File\n[ x ] Exit\n";
 echo -n "$USER>";
  read choise;
